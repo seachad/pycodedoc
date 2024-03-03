@@ -10,10 +10,10 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "justMyCode": true,
+            "justMyCode": false,
             "args": [
                 "-d",
-                "src",
+                "SEACHAD/API_ROBOT_Flask_Dashboards",
                 "--estimate"
             ],
         }
